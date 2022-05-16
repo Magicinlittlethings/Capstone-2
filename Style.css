@@ -1,0 +1,11 @@
+body{
+  background-color: hsl(218, 28%, 13%);
+}
+
+label{
+  color: white;
+}
+
+input{
+  color: hsl(218, 28%, 13%);
+}
